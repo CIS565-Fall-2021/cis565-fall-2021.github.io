@@ -34,7 +34,7 @@ This guide assumes that you have admin access to your computer.
             * Git for Windows (optional)
             * Github Extension for Visual Studio (optional)
             * MSVC v141 - VS 2017 C++ x64/x86 build tools (v14.16)
-            * C++ ATL for v141 build tools (x86 & x64)
+            * C++ ATL for v142 build tools (x86 & x64)
             * Windows 10 SDK (10.0.17763.0)
             * Windows 10 SDK (10.0.18362.0)
             * Windows 10 SDK (10.0.19041.0)

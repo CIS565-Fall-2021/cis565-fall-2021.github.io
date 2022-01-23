@@ -21,7 +21,7 @@ permalink: /projects/
 ![team-4.gif](/assets/images/projects/team-4.gif){:class="img-final-projects"}
 * [**Position-Based Multi-Agent Dynamics on WebGPU**](https://github.com/wayne-wu/webgpu-crowd-simulation) -- [Matthew Elser](https://github.com/mattelser), [Ashley Alexander Lee](https://github.com/asalexan), [Wayne Wu](https://github.com/wayne-wu)             
 
-<!--![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}-->
+![team-5.jpeg](/assets/images/projects/team-5.jpeg){:class="img-final-projects"}
 * [**Fast Volume Rendering with Spatiotemporal Reservoir Resampling**](https://github.com/TheSmokeyGuys/Volume-ReSTIR-Vulkan) -- [Zhihao Ruan](https://github.com/shineyruan), [Shubham Sharma](https://github.com/codeplay9800), [Raymond Yang](https://github.com/UserRYang)        
 
 ![team-6.gif](/assets/images/projects/team-6.gif){:class="img-final-projects"}
